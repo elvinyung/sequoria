@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "chai": "^2.3.0",
-    "lfmt": "0.0.1",
+    "lfmt": "^0.0.1",
     "sinon": "^1.14.1",
     "sinon-chai": "^2.7.0"
   },
