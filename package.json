@@ -1,6 +1,6 @@
 {
   "name": "sequoria",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "simple logging for node",
   "main": "index.js",
   "directories": {
